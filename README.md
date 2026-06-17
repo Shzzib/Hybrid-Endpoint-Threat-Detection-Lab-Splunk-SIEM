@@ -410,34 +410,5 @@ index=* EventCode=4624 Logon_Type=3
 
 ---
 
-## 📁 Repository Structure
-
-```
-hybrid-endpoint-threat-detection-lab/
-│
-├── screenshots/
-│   ├── q1-search.png
-│   ├── q1-barchart.png
-│   ├── q2-search.png
-│   ├── q2-alert.png
-│   ├── q2-dashboard.png
-│   ├── q3-search.png  ... (and so on)
-│   ├── dashboard1-full.png
-│   └── dashboard2-full.png
-│
-├── splunk-queries/
-│   ├── brute_force.spl
-│   ├── password_spray.spl
-│   ├── lolbin_detection.spl
-│   ├── persistence.spl
-│   ├── lateral_movement.spl
-│   └── privilege_escalation.spl
-│
-└── README.md
-```
-
----
-
 **Author:** Mohammed Wajihuddin
 **Email:** mohdshoib2104@gmail.com
-**Institution:** Presidency University, Bengaluru — B.Tech CSE (Cyber Security)
