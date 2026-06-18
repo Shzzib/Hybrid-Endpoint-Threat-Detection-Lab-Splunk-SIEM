@@ -44,6 +44,8 @@ Authentication activity deviates significantly from normal patterns and aligns w
 
 ![Successful Login Search Query](q3-search.png)
 
+![Successful Login Search Query](q3-chart.png)
+
 ### Observation
 Successful SSH login events were identified and correlated against previous failed authentication attempts.
 
@@ -58,6 +60,8 @@ Correlating successful and failed logins improves visibility into potential comp
 ## 4. Spot Suspicious Connections Without Authentication
 
 ![Unauthenticated Connection Search](q4-search.png)
+
+![Unauthenticated Connection Search](q4-chart.png)
 
 ### Observation
 Persistent SSH connection attempts were observed without successful authentication.
